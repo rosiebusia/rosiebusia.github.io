@@ -23,8 +23,6 @@ h1 {
     font-size: 2em;
     font-family:'Helvetica';
 }
-
-}
 p {
     font-size: 1em;
     font-family:'Helvetica';
@@ -41,7 +39,6 @@ img {
 footer {
     border-top: 1px solid #d5d5d5;
     font-size: .8em;
-     color: #C890A3;
 }
 
 ul.posts { 
