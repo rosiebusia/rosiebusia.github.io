@@ -1,6 +1,6 @@
 body {
-    margin: 30px auto;
-    width: 50%;
+    margin: 60px auto;
+    width: 70%;
 }
 nav ul, footer ul {
     font-family:'Helvetica';
@@ -27,7 +27,7 @@ p {
     font-size: 1em;
     font-family:'Helvetica';
     line-height: 1.4em;
-    width: 35%;
+    width: 50%;
     color: #333;
 }
 img {
