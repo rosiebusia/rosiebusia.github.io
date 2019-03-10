@@ -39,6 +39,8 @@ img {
 footer {
     border-top: 1px solid #d5d5d5;
     font-size: .8em;
+      font-family:'Helvetica';
+     color: #C890A3;
 }
 
 ul.posts { 
