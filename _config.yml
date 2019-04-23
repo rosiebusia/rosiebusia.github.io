@@ -1,2 +1,4 @@
 name: "Rosie Gillies"
 markdown: kramdown
+plugins:
+  - jekyll-seo-tag
